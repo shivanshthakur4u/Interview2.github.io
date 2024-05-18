@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --body-medium-bold: "DM Sans";
+  
+    /* font sizes */
+    --body-medium-bold-size: 16px;
+    --heading-desktop-h4-size: 24px;
+    --heading-desktop-h2-size: 48px;
+  
+    /* Colors */
+    --neutral-white: #fff;
+    --neutral-grey: #68718b;
+    --blue-dark-blue: #006fba;
+    --red-red: #e95c49;
+    --neutral-light-grey: #cdd0d8;
+  
+    /* Gaps */
+    --gap-29xl: 48px;
+    --gap-9xs: 4px;
+    --gap-5xl: 24px;
+    --gap-xs: 12px;
+  
+    /* Paddings */
+    --padding-5xl: 24px;
+    --padding-base: 16px;
+    --padding-13xl: 32px;
+    --padding-5xs: 8px;
+  
+    /* Border radiuses */
+    --br-3xs: 10px;
+  }
+  
